@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008493168713",
+    "firebase_url": "https://takara-ea489.firebaseio.com",
+    "project_id": "takara-ea489",
+    "storage_bucket": "takara-ea489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008493168713:android:4b65d17117f07a15f55798",
+        "android_client_info": {
+          "package_name": "com.cavidel.takara_bill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008493168713-icvdp7glfb92n93qg8bmkemvvd2ueafr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqSt_WMuP9OYcrQZ60VrRA5zKP4R6wJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008493168713-icvdp7glfb92n93qg8bmkemvvd2ueafr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
